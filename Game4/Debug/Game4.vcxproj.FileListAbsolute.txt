@@ -1,0 +1,4 @@
+F:\Lenguajes de programación\C#\Game4\Game4\Debug\Game4.vcxproj.AssemblyReference.cache
+F:\Lenguajes de programación\C#\Game4\Game4\Debug\Game4.Game.resources
+F:\Lenguajes de programación\C#\Game4\Game4\Debug\Game4.Instrucciones.resources
+F:\Lenguajes de programación\C#\Game4\Game4\Debug\Game4.vcxproj.GenerateResource.cache
